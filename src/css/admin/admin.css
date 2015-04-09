@@ -1,0 +1,49 @@
+a{
+  text-decoration:none;
+}
+li{
+  list-style:none;
+}
+td {
+  padding:5px;
+}
+#wrapper {
+  width: 1024px;
+  height: auto;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+}
+#header{
+  clear:both;
+}
+#menuprincipal a:hover{
+  text-decoration:underline;
+}
+#menuprincipal, #menusecundario{
+  clear:both;
+  width:100%;
+}
+#menuprincipal ul{
+}
+#menuprincipal ul li, #menusecundario ul li{
+  float:left;
+  padding:10px;
+}
+#menuprincipal ul li{
+  background-color:#ccc;
+}
+.menusuario{
+  float:right;
+}
+
+#content{
+  clear:both;
+}
+
+#footer{
+  clear:both;
+  border-top:1px solid #ccc;
+  padding:5px;
+  margin-top:40px;
+}

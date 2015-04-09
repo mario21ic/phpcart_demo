@@ -1,0 +1,7 @@
+src/application/cache/*
+src/application/logs/*
+src/application/config/database.php
+src/img/*
+data/*
+access.log
+error.log
