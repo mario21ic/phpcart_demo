@@ -1,7 +1,10 @@
-src/application/cache/*
-src/application/logs/*
-src/application/config/database.php
 src/img/*
 data/*
 access.log
 error.log
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
